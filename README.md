@@ -70,15 +70,6 @@ Sam Shoni Zacharia
 
 GitHub | LinkedIn
 
-yaml
-Copy code
+
 
 ---
-
-## 🔄 3. Update Repo with Photos + README
-Run these commands after editing README and adding images:
-
-```bash
-git add .
-git commit -m "Added project photos and updated README with details"
-git push
