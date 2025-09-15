@@ -62,8 +62,7 @@ Upload to Arduino Mega.
 
 Power with Li-ion battery pack and test balancing.
 
-📹 Demo Video
-(Add YouTube link if you upload a video demo!)
+
 
 👨‍💻 Author
 Sam Shoni Zacharia
